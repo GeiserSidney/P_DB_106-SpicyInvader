@@ -1,2 +1,2 @@
-# SpicyInvader
-P_DB 106
+# P_DB 106
+SpicyInvader
